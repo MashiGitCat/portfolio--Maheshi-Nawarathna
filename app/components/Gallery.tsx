@@ -121,7 +121,7 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
         </span>
       ),
       technologies: ["React", "Node.js", "Express", "API Integration", "Axios"],
-      githubUrl: "https://github.com/Maheshinav/Brainflix.git",
+      githubUrl: "https://github.com/MashiGitCat/BRAINFLIX_TRANSFER.git",
       images: [
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704489141/brainflix2_adwasf.png",
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704488794/brainflix-1_v4yrvw.png",

@@ -91,7 +91,7 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
         "Bandsite is the official website of BeesKnees Band, offering tour information, booking options, and a platform for fan comments",
 
       technologies: ["Javascript", "HTML5", "Axios", "Sass"],
-      githubUrl: "https://github.com/Maheshinav/band-site",
+      githubUrl: "https://github.com/MashiGitCat/Bandsite-Transfer.git",
       images: [
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704231516/bandsite-1_y7adxs.png",
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704225496/bees_knees_2_p9pql8.png",
@@ -142,7 +142,7 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
         "React",
         "Javascript",
       ],
-      githubUrl: "",
+      githubUrl: "https://github.com/MashiGitCat/Instock-Brainstation-transfer.git",
       images: [
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704490035/instock_1_cakctp.png",
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704490412/instock_2_b4rn6g.png",

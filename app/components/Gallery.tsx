@@ -38,10 +38,11 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
         "DaisyUI",
         "Sass",
       ],
-      githubUrl: "https://github.com/Maheshinav/Maheshi-Nawarathna.git",
+      githubUrl: "https://github.com/MashiGitCat/portfolio--Maheshi-Nawarathna.git",
       images: [
-        "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704225496/bees_knees_2_p9pql8.png",
-        "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704055838/1280720_qayjal.png",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719004564/portfolio-01_2.jpg",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719004808/portfolio-02.jpg",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719005045/smartmockups_lxp7555u.jpg"
       ],
     },
     {

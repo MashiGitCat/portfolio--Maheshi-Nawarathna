@@ -50,10 +50,10 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
     {
       imageUrl:
         "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719104764/wonderwriters-01.png",
-      projectName: "Find Maheshi",
-      subtitle: "Portfolio of Maheshi",
+      projectName: "WonderWriters",
+      subtitle: "Drawing, illustrating and sharing stories",
       description:
-        "This is my portfolio site I made to showcase my projects! All cartoons and designs are created by me and it is responsive at any screen size!",
+        "An application for story writers and illustrators to collaborate with each and make beautiful stories for kids.",
 
       technologies: [
         "Typescript",

@@ -38,13 +38,41 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
         "DaisyUI",
         "Sass",
       ],
-      githubUrl: "https://github.com/MashiGitCat/portfolio--Maheshi-Nawarathna.git",
+      githubUrl:
+        "https://github.com/MashiGitCat/portfolio--Maheshi-Nawarathna.git",
       images: [
         "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719004564/portfolio-01_2.jpg",
         "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719004808/portfolio-02.jpg",
-        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719005045/smartmockups_lxp7555u.jpg"
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719005045/smartmockups_lxp7555u.jpg",
       ],
     },
+
+    {
+      imageUrl:
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719104764/wonderwriters-01.png",
+      projectName: "Find Maheshi",
+      subtitle: "Portfolio of Maheshi",
+      description:
+        "This is my portfolio site I made to showcase my projects! All cartoons and designs are created by me and it is responsive at any screen size!",
+
+      technologies: [
+        "Typescript",
+        "React",
+        "GSAP",
+        "Material UI",
+        "Node.js",
+        "MongoDB",
+        "Sass",
+      ],
+      githubUrl:
+        "https://github.com/MashiGitCat/portfolio--Maheshi-Nawarathna.git",
+      images: [
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719004564/portfolio-01_2.jpg",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719004808/portfolio-02.jpg",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719005045/smartmockups_lxp7555u.jpg",
+      ],
+    },
+
     {
       imageUrl:
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704494414/petree-thumbnail_m9loos.png",
@@ -142,7 +170,8 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
         "React",
         "Javascript",
       ],
-      githubUrl: "https://github.com/MashiGitCat/Instock-Brainstation-transfer.git",
+      githubUrl:
+        "https://github.com/MashiGitCat/Instock-Brainstation-transfer.git",
       images: [
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704490035/instock_1_cakctp.png",
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704490412/instock_2_b4rn6g.png",

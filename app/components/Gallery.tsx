@@ -67,9 +67,11 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
       githubUrl:
         "https://github.com/MashiGitCat/portfolio--Maheshi-Nawarathna.git",
       images: [
-        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719004564/portfolio-01_2.jpg",
-        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719004808/portfolio-02.jpg",
-        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719005045/smartmockups_lxp7555u.jpg",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/c_fill,w_769,h_433,ar_16:9/v1719189200/wonderwriters-ss-02.png",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/c_fill,w_769,h_433,ar_16:9/v1719189612/wonderwriters-ss-03.png",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/c_crop,w_769,h_433,ar_16:9/v1719190202/ww-ss-04.png",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/b_rgb:C2C9D6/c_fill,w_769,h_433,ar_16:9/v1719190305/wonderwriters-04.png",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/c_fill,w_769,h_433,ar_16:9/v1719190534/wonderwriters-03.png"
       ],
     },
 

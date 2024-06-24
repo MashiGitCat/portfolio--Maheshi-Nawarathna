@@ -12,7 +12,7 @@ function Footer() {
 					<p className="mb-4">MAHESHI NAWARATHNA © 2023</p>
 					<div className={styles.socialLinks}>
 						<a
-							href="https://github.com/Maheshinav"
+							href="https://github.com/MashiGitCat"
 							target="_blank"
 							rel="noopener noreferrer"
 						>

@@ -53,7 +53,7 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
       projectName: "WonderWriters",
       subtitle: "Drawing, illustrating and sharing stories",
       description:
-        "An application for story writers and illustrators to collaborate with each and make beautiful stories for kids.",
+        "An application for story writers and illustrators to collaborate with each and make beautiful children stories. My hobby of writing/illustrating drove me to do this project.All the cartoons and Website design is my own",
 
       technologies: [
         "Typescript",

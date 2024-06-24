@@ -49,7 +49,7 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
 
     {
       imageUrl:
-        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719104764/wonderwriters-01.png",
+        "https://res.cloudinary.com/maheshidevelopments/image/upload/v1719187607/hero12.png",
       projectName: "WonderWriters",
       subtitle: "Drawing, illustrating and sharing stories",
       description:

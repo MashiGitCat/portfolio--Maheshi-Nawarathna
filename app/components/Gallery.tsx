@@ -64,7 +64,8 @@ const ProjectsGallery: React.FC<ProjectsGalleryProps> = ({ activeTab }) => {
         "MongoDB",
         "Sass",
       ],
-siteUrl:"https://wonderwriters.onrender.com/"
+siteUrl:"https://wonderwriters.onrender.com",
+githubUrl:"",
       images: [
         "https://res.cloudinary.com/maheshidevelopments/image/upload/c_fill,w_769,h_433,ar_16:9/v1719189200/wonderwriters-ss-02.png",
         "https://res.cloudinary.com/maheshidevelopments/image/upload/c_fill,w_769,h_433,ar_16:9/v1719189612/wonderwriters-ss-03.png",

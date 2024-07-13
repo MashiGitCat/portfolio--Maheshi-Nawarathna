@@ -94,11 +94,9 @@ const AboutMeSection: React.FC<AboutMeSectionProps> = ({}) => {
 						science. 
 					</p>
 					<p>
-						Since nothing is fulfilling me as coding I wanted to return it.
-						To refresh my skills and rekindle my enthusiasm, I attended a
-						Software Engineering Bootcamp at Brainstation. This intensive,
-						project-based program was a crucial step towards re-entering the
-						career I'm most passionate about.
+						Since nothing is fulfilling me as coding I wanted to re-start it.
+						To refresh my skills and rekindle my enthusiasm, I attended an intensive
+						Software Engineering Bootcamp based on projects. 
 					</p>
 					<p>
 						{" "}

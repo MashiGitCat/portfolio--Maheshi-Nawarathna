@@ -78,6 +78,34 @@ githubUrl:"",
       ],
     },
 
+
+
+{
+      imageUrl:
+        "https://res.cloudinary.com/dchzjr4bz/image/upload/t_the-biggest-shine/v1724111752/the-biggest-shine_idpeiu.png",
+      projectName: "The Biggest Shine",
+      subtitle: "Animated story",
+      description:
+        "A story told with pictures and animations & Still in Progress project",
+
+      technologies: [
+        "Javascript",
+        "React",
+        "GSAP",
+        "Material UI",
+        "Three.js"
+        "Sass",
+      ],
+siteUrl:"https://thebiggestshine.netlify.app/",
+githubUrl:"https://github.com/MashiGitCat/The-Biggest-Shine.git",
+      images: [
+
+      ],
+    },
+
+
+    
+
     {
       imageUrl:
         "https://res.cloudinary.com/dchzjr4bz/image/upload/v1704494414/petree-thumbnail_m9loos.png",

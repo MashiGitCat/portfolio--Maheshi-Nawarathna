@@ -32,6 +32,14 @@ const MyProjects: React.FC<MyProjectsProps> = ({}) => {
 				>
 					FREELANCE
 				</a>
+				<a
+          role="tab"
+          className={`tab ${activeTab === "IN_PROGRESS" ? styles.activeTab : ""}`}
+          onClick={() => setActiveTab("IN_PROGRESS")}
+        >
+          IN PROGRESS
+        </a>
+
 			</div>
 
 			<ProjectsGallery activeTab={activeTab} />

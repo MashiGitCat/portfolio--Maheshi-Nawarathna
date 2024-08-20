@@ -275,9 +275,7 @@ githubUrl:"",
   return false;
 }); 
 
-const handleCardClick = (index: number) => {
-  setActiveCardIndex(activeCardIndex === index ? null : index);
-};
+
 
   const handleCardClick = (index: number) => {
     setActiveCardIndex(activeCardIndex === index ? null : index);

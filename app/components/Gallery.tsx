@@ -267,7 +267,7 @@ githubUrl:"",
   const filteredProjects = projectData.filter((project) => {
   if (activeTab === "ALL") return true;
   if (activeTab === "FREELANCE") {
-    return project.projectName === "PawLove" || project.projectName === "LYROCAT";
+    return project.projectName === "PawLove" || project.projectName === "The Biggest Shine";
   }
   if (activeTab === "IN_PROGRESS") {
     return project.projectName === "The Biggest Shine";

@@ -93,7 +93,7 @@ githubUrl:"",
         "React",
         "GSAP",
         "Material UI",
-        "Three.js"
+        "Three.js",
         "Sass",
       ],
 siteUrl:"https://thebiggestshine.netlify.app/",

@@ -86,7 +86,8 @@ githubUrl:"",
       projectName: "The Biggest Shine",
       subtitle: "Animated story",
       description:
-        "A story told with pictures and animations & Still in Progress project. GitHub Link is <a>https://github.com/MashiGitCat/The-Biggest-Shine.git</a>",
+       "A story told with pictures and animations & Still in Progress project. GitHub Link is <a href='https://github.com/MashiGitCat/The-Biggest-Shine.git' target='_blank'>https://github.com/MashiGitCat/The-Biggest-Shine.git</a>",
+
 
       technologies: [
         "Javascript",

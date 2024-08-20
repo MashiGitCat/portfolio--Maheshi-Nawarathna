@@ -265,16 +265,19 @@ githubUrl:"",
   }, [activeTab]);
 
   const filteredProjects = projectData.filter((project) => {
-    if (activeTab === "ALL") return true;
-    if (activeTab === "FREELANCE") {
-      return (
-        project.projectName === "PawLove" || project.projectName === "LYROCAT"
-      );
-    }
-    if (activeTab === "IN_PROGRESS") {
-      return project.projectName === "The Biggest Shine";
-    }
-    return false;
+  if (activeTab === "ALL") return true;
+  if (activeTab === "FREELANCE") {
+    return project.projectName === "PawLove" || project.projectName === "LYROCAT";
+  }
+  if (activeTab === "IN_PROGRESS") {
+    return project.projectName === "The Biggest Shine";
+  }
+  return false;
+}); 
+
+const handleCardClick = (index: number) => {
+  setActiveCardIndex(activeCardIndex === index ? null : index);
+};
 
   const handleCardClick = (index: number) => {
     setActiveCardIndex(activeCardIndex === index ? null : index);
